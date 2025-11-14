@@ -104,7 +104,7 @@ Proyek mengikuti pola **Clean Architecture / Layered Architecture**.
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/SOBRIPOS.git
+git clone https://github.com/sobri3195/SOBRIPOS.git
 cd SOBRIPOS
 ```
 
@@ -248,22 +248,48 @@ Proyek ini dirilis dengan lisensi **MIT License**. Lihat file [LICENSE](LICENSE)
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Dr. Muhammad Sobri Maulana, S.Kom, CEH, OSCP, OSCE**
+
+Certified Ethical Hacker dan OSCP holder dengan keahlian di bidang cybersecurity dan software development.
+
+- 🌐 **GitHub**: [@sobri3195](https://github.com/sobri3195)
+- 📧 **Email**: [muhammadsobrimaulana31@gmail.com](mailto:muhammadsobrimaulana31@gmail.com)
+- 🌍 **Website**: [muhammadsobrimaulana.netlify.app](https://muhammadsobrimaulana.netlify.app)
+- 🌍 **Portfolio**: [muhammad-sobri-maulana-kvr6a.sevalla.page](https://muhammad-sobri-maulana-kvr6a.sevalla.page/)
+
+### 🌐 Social Media
+
+- 🎥 **YouTube**: [@muhammadsobrimaulana6013](https://www.youtube.com/@muhammadsobrimaulana6013)
+- 📱 **TikTok**: [@dr.sobri](https://www.tiktok.com/@dr.sobri)
+- 💬 **Telegram**: [winlin_exploit](https://t.me/winlin_exploit)
+- 👥 **WhatsApp Group**: [Join Community](https://chat.whatsapp.com/B8nwRZOBMo64GjTwdXV8Bl)
+
+## 💰 Support & Donation
+
+Jika proyek ini bermanfaat, Anda dapat mendukung pengembangan lebih lanjut melalui:
+
+- 💳 **Lynk.id**: [muhsobrimaulana](https://lynk.id/muhsobrimaulana)
+- ☕ **Trakteer**: [g9mkave5gauns962u07t](https://trakteer.id/g9mkave5gauns962u07t)
+- 🎨 **Gumroad**: [maulanasobri.gumroad.com](https://maulanasobri.gumroad.com/)
+- 💎 **Karya Karsa**: [muhammadsobrimaulana](https://karyakarsa.com/muhammadsobrimaulana)
+- 🎁 **Nyawer**: [MuhammadSobriMaulana](https://nyawer.co/MuhammadSobriMaulana)
+
+Setiap dukungan sangat berarti untuk pengembangan proyek open source ini!
 
 ## 🙏 Acknowledgments
 
-- Terima kasih kepada komunitas .NET
+- Terima kasih kepada komunitas .NET Indonesia
 - Entity Framework Core team
 - Blazor community
+- Semua kontributor dan supporter
 
 ## 📞 Support
 
 Jika Anda memiliki pertanyaan atau menemukan bug:
-- Buka [Issue](https://github.com/yourusername/SOBRIPOS/issues)
-- Atau hubungi via email
+- 🐛 Buka [Issue](https://github.com/sobri3195/SOBRIPOS/issues)
+- 📧 Email: [muhammadsobrimaulana31@gmail.com](mailto:muhammadsobrimaulana31@gmail.com)
+- 👥 Join WhatsApp Group: [Community Group](https://chat.whatsapp.com/B8nwRZOBMo64GjTwdXV8Bl)
 
 ---
 
-**Made with ❤️ using .NET**
+**Made with ❤️ by Dr. Muhammad Sobri Maulana using .NET**
