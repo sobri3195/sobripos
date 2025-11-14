@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\SOBRIPOS.Core\SOBRIPOS.Core.csproj" />
+    <ProjectReference Include="..\..\Core\SOBRIPOS.Application\SOBRIPOS.Application.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\SOBRIPOS.Data\SOBRIPOS.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+@SOBRIPOS.API_HostAddress = http://localhost:5067
+
+GET {{SOBRIPOS.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
